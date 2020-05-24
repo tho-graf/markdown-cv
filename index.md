@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thomas Graf's CV
 ---
 # Thomas Graf
 Software Engineer.
