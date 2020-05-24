@@ -29,7 +29,7 @@ __Semester Abroad in Edinburgh__
 `2014-2016`
 __Computer Science M.Sc. @ University of Applied Sciences Karlsruhe__
 
-- Sizar
+## Sizar
 
 `2012-2014`
 __Deutschlandstipendium__
